@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <string>
+#include <cctype>
 using namespace std;
 
 struct Student 
